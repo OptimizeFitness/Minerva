@@ -1,5 +1,0 @@
-ignore:
-  - "MinervaCatalog/**/*"
-  - "MinervaExample/**/*"
-  - "MinervaTests/**/*"
-  - "Pods/**/*"

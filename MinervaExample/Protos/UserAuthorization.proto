@@ -1,9 +1,0 @@
-syntax = "proto2";
-
-import "UserRole.proto";
-
-message UserAuthorizationProto {
-  optional string userID = 1;
-  optional string accessToken = 2;
-  optional UserRole role  = 4;
-}

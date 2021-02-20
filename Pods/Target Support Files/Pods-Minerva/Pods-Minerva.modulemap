@@ -1,6 +1,0 @@
-framework module Pods_Minerva {
-  umbrella header "Pods-Minerva-umbrella.h"
-
-  export *
-  module * { export * }
-}

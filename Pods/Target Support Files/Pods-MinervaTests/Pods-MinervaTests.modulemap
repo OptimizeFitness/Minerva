@@ -1,6 +1,0 @@
-framework module Pods_MinervaTests {
-  umbrella header "Pods-MinervaTests-umbrella.h"
-
-  export *
-  module * { export * }
-}

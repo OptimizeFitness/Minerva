@@ -1,7 +1,0 @@
-syntax = "proto2";
-
-message UserProto {
-  optional string userID = 1;
-  optional string email = 2;
-  optional int32 dailyCalories = 3;
-}

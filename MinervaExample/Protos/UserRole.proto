@@ -1,7 +1,0 @@
-syntax = "proto2";
-
-enum UserRole {
-  user = 1;
-  userManager = 2;
-  admin = 3;
-}

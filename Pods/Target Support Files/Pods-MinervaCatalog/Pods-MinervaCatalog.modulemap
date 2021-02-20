@@ -1,6 +1,0 @@
-framework module Pods_MinervaCatalog {
-  umbrella header "Pods-MinervaCatalog-umbrella.h"
-
-  export *
-  module * { export * }
-}
